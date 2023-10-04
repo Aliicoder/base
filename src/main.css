@@ -1,0 +1,21 @@
+:root {
+  --color:gray;
+}
+
+header {
+  background-color: var(--color);
+}
+
+.hello {
+  align-self: center;
+  font-size: large;
+  color: red;
+}
+
+.hero {
+  background: red;
+}
+
+.footer {
+  background-color: bisque;
+}/*# sourceMappingURL=main.css.map */

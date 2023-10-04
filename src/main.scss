@@ -1,0 +1,9 @@
+:root{
+  --color:gray;
+}
+@import './scss/helpers/variables';
+@import './scss/helpers/mixin';
+
+@import './scss/layout/Header.module';
+@import './scss/layout/Hero.module';
+@import './scss/layout/Footer.module'
